@@ -37,15 +37,15 @@ elif mode_choice == "2":
                          "-----Enter 1 to Generate a Music Band Name\n"
                          "-----Enter 2 to Generate a Startup Name\n")
     if name_choice2 == "1":
-        genre = input("Enter the genre of your music (e.g., Rock, Pop, Jazz): ")
-        mood = input("Enter the mood of your music (e.g., Happy, Sad, Energetic): ")
-        unique_feature = input("Enter a unique feature of your music (e.g., Acoustic, Electronic): ")
+        genre = input("Enter the genre of your music (e.g., Rock, Pop, Jazz):\n ")
+        mood = input("Enter the mood of your music (e.g., Happy, Sad, Energetic): \n")
+        unique_feature = input("Enter a unique feature of your music (e.g., Acoustic, Electronic):\n ")
         music_name = genre + mood + unique_feature
         print(f"Your music name could be: {music_name}")
     elif name_choice2 == "2":
-        niche = input("Enter the niche of your startup (e.g., Tech, Health, Finance): ")
-        startup_type = input("Enter the type of your startup (e.g., App, Service, Solution): ")
-        unique_feature = input("Enter a unique feature of your startup (e.g., Smart, Secure): ")
+        niche = input("Enter the niche of your startup (e.g., Tech, Health, Finance):\n ")
+        startup_type = input("Enter the type of your startup (e.g., App, Service, Solution): \n")
+        unique_feature = input("Enter a unique feature of your startup (e.g., Smart, Secure): \n")
         startup_name = niche + unique_feature + startup_type
         print(f"Your startup name could be: {startup_name}")
 
