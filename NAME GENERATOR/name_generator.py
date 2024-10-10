@@ -7,7 +7,7 @@ pet_names = [
     "Bailey", "Sadie", "Oliver", "Molly", "Tucker", "Sophie", "Bear", "Chloe", "Duke", "Zoey",
     "Jack", "Lily", "Finn", "Roxy", "Zeus", "Ruby", "Apollo", "Penny", "Thor", "Maggie",
     "Gizmo", "Nala", "Simba", "Coco", "Ranger", "Pepper", "Scout", "Willow", "Jasper", "Ginger",
-    "Tank", "Hazel", "Ace", "Gracie", "Rex", "Stella", "Diesel","Mia", "Bruno", "Ellie"
+    "Tank", "Hazel", "Ace", "Gracie", "Rex", "Stella", "Diesel","Mia", "Bruno", "Ellie","Simba"
 ]
 
 ign_list = [
